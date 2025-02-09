@@ -88,3 +88,7 @@ The attached app.py file contains a code who's main goal is demonstrate the use 
     }
 ]  
 
+***Favourite Pokemon
+
+MewTwo - Existential Crisis ---->  Eventual Redemption 
+Also reminds me of Painwheel from Skullgirls
